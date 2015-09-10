@@ -2,3 +2,5 @@
 *.graphml
 *.pdf
 *.gefx
+ipynb_checkpoints/
+*.json
